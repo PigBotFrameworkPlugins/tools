@@ -7,4 +7,4 @@ pigBotFrameworkPlugin
 # 作者
 - XzyStudio
 
-# qwq
+# webhooks
