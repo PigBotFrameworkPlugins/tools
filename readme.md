@@ -6,5 +6,3 @@ pigBotFrameworkPlugin
 
 # 作者
 - XzyStudio
-
-# test push
